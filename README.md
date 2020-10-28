@@ -35,3 +35,9 @@ This repo includes 7 animals dolls; zebra, deer, panda, jaguar, giraffe, fox, an
 
 We are waiting for review. 
 
+## Data License
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
