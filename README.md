@@ -8,7 +8,9 @@ Me and *Andréas pastor (He came from Nantes University in France)* contributed 
 
 *Gazanfar Ali* (Ph.d student from UST in Republic of Korea) also helped with this study, especially multimodal system designing.
 
-We received the research guidance from *Jae-In Hwang* (Principal Research Scientist from KIST).
+We received the research guidance from *Jae-In Hwang* (Principal Research Scientist from KIST). 
+
+If you needs more details, see the our <a href = "https://sites.google.com/view/mrlabkist"> **MRLab**</a> homepage.
 
 ## Doll Dataset
 This repo includes 7 animals dolls; zebra, deer, panda, jaguar, giraffe, fox, and wallaby.
