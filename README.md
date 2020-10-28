@@ -31,7 +31,7 @@ This repo includes 7 animals dolls; zebra, deer, panda, jaguar, giraffe, fox, an
 
 
 
-## Citing our dataset
+## Citing our work
 
 Submission under review
 
